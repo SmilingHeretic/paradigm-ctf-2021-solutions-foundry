@@ -4,3 +4,6 @@
 [submodule "lib/forge-std"]
 	path = lib/forge-std
 	url = https://github.com/brockelmore/forge-std
+[submodule "lib/v2-core"]
+	path = lib/v2-core
+	url = https://github.com//Uniswap/v2-core
